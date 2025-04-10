@@ -1,4 +1,13 @@
 # Log
+### Thu Apr 10 2025
+Thread 1 Stacktrace:
+- [HardCAML](https://ceramichacker.com/)
+- [Jane Street](https://www.youtube.com/watch?v=0ML7ZLMdcl4&ab_channel=AIEngineer)
+Thread 2 Stacktrace:
+- [Herb](https://www.youtube.com/watch?v=8U3hl8XMm8c&ab_channel=CppCon)
+- [Work Contracts](https://www.youtube.com/watch?v=oj-_vpZNMVw&ab_channel=CppCon)
+- [Daniel Anderson](https://www.youtube.com/watch?v=kPh8pod0-gk&t=386s&ab_channel=CppCon)
+  - I gotta go talk to this guy!
 
 ### Tue Mar 25 2025
 - [Do something new. Work with good people. Don't give up.](https://www.youtube.com/watch?v=SVdTF4_QrTM&ab_channel=hamsterpoop) 
